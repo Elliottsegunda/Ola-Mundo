@@ -17,6 +17,9 @@ h1{
     padding: 20px;
     margin: 4px;
 }
+h1:hover{
+    color: aqua;
+}
 p{
     color: #fff;
     text-align: center;
