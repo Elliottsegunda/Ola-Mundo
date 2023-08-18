@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: Barlow;
+    font-family:Arial;
 }
 .container{
     width: 100%;
@@ -20,8 +20,6 @@ h1{
 h1:hover{
     color: aqua;
 }
-p{
-    color: #fff;
-    text-align: center;
-    margin: 4px 0;
+section{
+    background-color: aquamarine;
 }
